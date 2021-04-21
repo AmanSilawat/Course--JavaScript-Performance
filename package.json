@@ -1,0 +1,23 @@
+{
+  "name": "Course--JavaScript-Performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmanSilawat/Course--JavaScript-Performance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmanSilawat/Course--JavaScript-Performance/issues"
+  },
+  "homepage": "https://github.com/AmanSilawat/Course--JavaScript-Performance#readme",
+  "dependencies": {
+    "perf_hooks": "^0.0.1"
+  }
+}

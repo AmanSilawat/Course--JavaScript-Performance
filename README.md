@@ -9,3 +9,10 @@
 ![img](./images/06.png)
 ![img](./images/07.png)
 ![img](./images/08.png)
+
+
+## JavaScript Performance
+### Deoptimization, Deleting Properties
+
+
+
